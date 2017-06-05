@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tabs</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_simple__tabs">Simple_Tabs</string>
+    <string name="title_activity_scrollable__tabs">Scrollable_Tabs</string>
+    <string name="title_activity_icon__text__tabs">Icon_Text_Tabs</string>
+    <string name="title_activity_only__icons">Only_Icons</string>
+    <string name="title_activity_custom__tabs">Custom_Tabs</string>
+</resources>
